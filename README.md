@@ -7,7 +7,7 @@ This markdown file will guide you throughout the tutorial process.
 - [x] 3. Install Visual Studio Code
 - [x] 4. Create GitHub account
 - [x] 5. Setup SSH with GitHub
-- [ ] 6. Create `MyFirstProject` repository
+- [x] 6. Create `MyFirstProject` repository
 
 ## 1. Setup Windows Subsystem for Linux
 1. Open the start menu and type `turn windows features on or off`.
