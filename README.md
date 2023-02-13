@@ -31,4 +31,7 @@ This markdown file will guide you throughout the tutorial process.
 ## 6. Create `MyFirstProject` repository
 
 1. Open a terminal and type the following command. <br>
+`$ mkdir ~/web-projects && cd ~/web-projects`
+
+2. Then, type the following command. <br>
 `$ git clone git@github.com:mwgunt/MyFirstProject.git`
