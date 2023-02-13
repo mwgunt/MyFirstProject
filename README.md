@@ -10,7 +10,7 @@ This markdown file will guide you throughout the tutorial process.
 - [x] 6. Create `MyFirstProject` repository
 
 ## 1. Setup Windows Subsystem for Linux
-1. Open the start menu and type `turn windows features on or off`.
+1. Open the Start menu and type `turn windows features on or off`.
 2. In the *Windows Features* window, look for **Virtual Machine Platform** and **Windows Subsystem for Linux**. Click the checkboxes so they are selected.
 3. Click on *OK*. Wait for the wizard to install the features. You may have to restart your computer. Restart your computer.
 
